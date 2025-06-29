@@ -1,0 +1,4 @@
+social-security.txt
+# This file is used to ignore the social security number file in the repository.
+private-directory/
+# This directory contains private files that should not be tracked by Git.
